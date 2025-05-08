@@ -49,9 +49,8 @@
 <img src="https://streak-stats.demolab.com?user=Shreyas-prog108&theme=aura&hide_border=true&card_width=550"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-prog108&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/>
 
-<!--
+
 <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-prog108&hide_progress=true&langs_count=10&theme=aura&hide_border=true"/>
--->
 
 <br>
 
@@ -61,11 +60,6 @@
 
 <br>
 
-## ✨ Badges
-
-[![An image of @Shreyas-prog108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Shreyas-prog108)](https://holopin.io/@Shreyas-prog108)
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer GIF"/>

@@ -5,7 +5,6 @@
 <h1 align="center">Hi, I'm Shreyas Pandey 👋</h1>
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Tech Avid | Lifelong Learner</h3>
 
-<img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/06c4b204-629f-4b72-9365-12ad1cc647ad" alt="Coding GIF">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shreyas-prog108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

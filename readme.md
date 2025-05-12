@@ -70,13 +70,12 @@
 
 <br>
 
-## 📊 GitHub Stats
+<h4 align="center">My Github Stats</h4>
 
-<img src="https://streak-stats.demolab.com?user=Shreyas-prog108&theme=aura&hide_border=true&card_width=550"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyas-prog108&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/>
-
-
-<img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-prog108&hide_progress=true&langs_count=10&theme=aura&hide_border=true"/>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-prog108-as&theme=radical&show_icons=true" alt="Shreyas-prog108' Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-prog108-as&layout=compact&theme=radical" alt="Shreyas-prog108' Most Used Languages" />
+</div>
 
 <br>
 

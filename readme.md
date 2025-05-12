@@ -73,8 +73,8 @@
 <h4 align="center">My Github Stats</h4>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-prog108-as&theme=radical&show_icons=true" alt="Shreyas-prog108' Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-prog108-as&layout=compact&theme=radical" alt="Shreyas-prog108' Most Used Languages" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-prog108&theme=radical&show_icons=true" alt="Shreyas-prog108' Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-prog108&layout=compact&theme=radical" alt="Shreyas-prog108' Most Used Languages" />
 </div>
 
 <br>

@@ -3,17 +3,17 @@
 </div>
 
 <h1 align="center">Hi, I'm Shreyas Pandey 👋</h1>
-<h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Tech Avid | Lifelong Learner</h3>
+<h3 align="center">AIML Engineer | Tech Avid | Lifelong Learner</h3>
 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shreyas-prog108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working on **Full Stack Projects and exploring Machine Learning**
-- 🌱 I’m currently learning **Next.js, GoLang, Machine Learning, and Cloud Technologies**
-- 👯 I’m looking to collaborate on **Web Apps, Open Source, and AI Projects**
-- 🤔 I’m open to help with **JavaScript, Python, C/C++ and React**
+- 🔭 I’m currently working as an **AI Engineer**
+- 🌱 I’m currently learning **Natural Language Processing, CUDA, Diffusion**
+- 👯 I’m looking to collaborate on **AIML, Open Source, and Full Stack Projects**
+- 🤔 I’m open to help with **Typescript, Python, C/C++, AWS and Next.js**
 - ⚡ Fun fact: **I love exploring new tech stacks and automating everyday tasks!**
 
 <br>

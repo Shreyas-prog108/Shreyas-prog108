@@ -13,7 +13,7 @@
 - 🔭 I’m currently working as an **AI Engineer**
 - 🌱 I’m currently learning **Natural Language Processing, CUDA, Diffusion**
 - 👯 I’m looking to collaborate on **AIML, Open Source, and Full Stack Projects**
-- 🤔 I’m open to help with **Typescript, Python, C/C++, AWS and Next.js**
+- 🤔 I’m open to help with **Artifical Intelligence Integration, Core ML/DL, AWS and Next.js**
 - ⚡ Fun fact: **I love exploring new tech stacks and automating everyday tasks!**
 
 <br>
